@@ -1,0 +1,67 @@
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1773060391,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "adb927cc-a86c-459c-a653-3aa7eeab03e7bd0a2e"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1741869992,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "aws-waf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "60d8c9f2-3770-497e-b528-e7a69af3adb9:BQoAartYJ4ElAAAA:uVyYye534s6vbDNeQt4OqL6uxial6JXnfG9qF8XgsQixnm9U76TGo9K/JdX2IL02X/AMkyExS6SjpU2ILZSxS0x92CvZzm6eScQwGGbQaxJj+y5o4ikYLmeFALylsbfWnn/DycseDjJWlESmHVsEGHECoLY3W7wXVHhNMh3kafAYvDJ4jhJwBkJYfsDSimI5t9PDr/of9t/Dhgx1b1bETIJ4DIS4//84xOByDS+WC7ZgMKRIgs4pOblYRe7EzsCRq7A3ZV45ZU9XBiCdoV0="
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1741526191,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_sid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "7d7e688b-4219-4d63-8c2f-354c27f73c450b9caa"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1742734252.303534,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "31a4460b-34e8-4cb5-b352-f9a87c505a0f"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1773060188.679617,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "oTlPhmNGlWuQoOqrLBVyvZgCvsjarTbmRYcbhxMyTXwayOzLAbulDeVIlPaTYDyACoQgXNcirKYOrWdOVHmKDCbtgcaoCeXFemDKYyiNPnScgfSSITZkwPTYqTUPnfAX"
+    }
+]
